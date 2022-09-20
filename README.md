@@ -1,3 +1,3 @@
 # comments
 
-ToDo лист на React + TypeScript + Zustand со сборкой на ViteJS
+Проект выполнен на React + TypeScript + Zustand со сборкой на ViteJS
